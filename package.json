@@ -17,7 +17,7 @@
   "homepage": "https://github.com/BlackDuckCoPilot/example-npm-travis#readme",
   "dependencies": {
     "kind-of": "6.0.3",
-    "console-io": "2.6.3",
+    "console-io": "5.0.1",
     "sequelize": "5.0.0-beta.8",
     "errorhandler": "1.4.3",
     "eslint-utils": "1.4.1",
